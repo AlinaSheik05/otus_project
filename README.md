@@ -6,4 +6,4 @@
 
 Код Airflow дага в репозитории - pl_mvideo_api.py
 
-Схема архитектуры в svg формате - 
+Схема архитектуры в репозитории - OTUS_Arch.drawio, OTUS_Arch.png
